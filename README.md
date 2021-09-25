@@ -4,6 +4,10 @@
 - 💞️ I am looking to collaborate on open source projects
 - 📫 How to contact me: eliasgarcia@atomeg.tech
 
+    (\ (\
+    ( -.-)
+    o_(")(")
+
 <!---
 Eliasgarcia12/Eliasgarcia12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
